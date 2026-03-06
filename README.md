@@ -2,7 +2,7 @@
 
 <img src="https://via.placeholder.com/800x200/007bff/ffffff?text=ArcFace+ONNX+%2B+5-Point+Alignment" alt="Project Banner" width="800"/>
 
-**Author:** Andrew Byukusenge  
+**Author:** Gloria Ntwari
 **Instructor:** Gabriel Baziramwabo  
 **Organization:** Rwanda Coding Academy  
 
@@ -76,7 +76,7 @@ cd backend && npm install
 
 ### 2. Enroll Your Face
 ```bash
-python -m src.enroll --name andrew
+python -m src.enroll --name gloria
 ```
 
 ### 3. Start the System
@@ -94,7 +94,7 @@ npm start
 
 **On PC - Terminal 2 (Vision Node):**
 ```bash
-python src/vision_node.py --broker 157.173.101.159 --name andrew
+python src/vision_node.py --broker 157.173.101.159 --name gloria
 ```
 
 ### 4. Flash ESP8266
